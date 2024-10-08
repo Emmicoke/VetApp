@@ -1,12 +1,12 @@
-Vet Appointment App
+# Vet Appointment App
 The Vet Appointment App is a mobile application that allows pet owners to create, manage, and track veterinary appointments for their pets. The app offers a simple interface for users to schedule appointments, view upcoming and past appointments, manage their account, and receive notifications about important pet health events.
 
-Features
-User Authentication
+# Features
+# User Authentication
 Users can create an account using email and password or Google sign-in.
 Secure login/logout functionality with JWT.
 Users can delete their account, which will remove all associated data from the app.
-Appointment Management
+# Appointment Management
 Users can create new appointments by selecting the date, time, and reason for the visit.
 Users can delete or modify existing appointments.
 Appointments can be viewed in a list or calendar format.
@@ -14,14 +14,9 @@ Appointment reminders via push notifications.
 Appointment History
 Full history of past appointments, including treatments and medications.
 Users can add notes for future reference.
-Pet Profile
+# Pet Profile
 Users can manage detailed profiles for each pet (name, breed, age, species, etc.).
 Optional pet photo upload for better identification.
-Notifications
-Reminders for upcoming appointments.
-Customizable notification preferences (email, push notifications).
-Search Functionality
-Easily search for specific appointments or records using filters like pet name, date, or reason for the visit.
 Account Management
 Simple account management interface.
 Users can delete their account, which will permanently erase their data.
@@ -72,7 +67,7 @@ Run the mobile app (iOS/Android): Make sure you have React Native CLI installed 
 bash
 Copy code
 npx react-native run-android
-# or for iOS
+# For for iOS
 npx react-native run-ios
 Usage
 Sign up with your email and password or Google account.
