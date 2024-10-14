@@ -1,6 +1,8 @@
 # Vet Appointment App
 The Vet Appointment App is a mobile application that allows pet owners to create, manage, and track veterinary appointments for their pets. The app offers a simple interface for users to schedule appointments, view upcoming and past appointments, manage their account, and receive notifications about important pet health events.
 
+![alt text](https://github.com/Emmicoke/VetApp/blob/master/Screenshot_1715080648.png?raw=true)
+
 # Features
 # User Authentication
 Users can create an account using email and password or Google sign-in.
@@ -83,5 +85,3 @@ Create a new branch for your feature/bugfix (git checkout -b feature-name).
 Commit your changes (git commit -am 'Add some feature').
 Push to the branch (git push origin feature-name).
 Create a new pull request.
-
-![alt text](https://github.com/Emmicoke/VetApp/blob/master/Screenshot_1715080648.png?raw=true)
